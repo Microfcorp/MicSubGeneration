@@ -1,0 +1,15 @@
+Load_Video=Loading Video;
+End_Time_Text=The end time of the text;
+Start_Time_Text=Text start time;
+Text=Text;
+Added_Sub=Add subtitle;
+Save_File_Sub=Save the subtitle file;
+Create_Video=Create video;
+Edit_Sub=Edit subtitles;
+Status=Status;
+Video_Uploading=Video uploaded successfully;
+Save_File=The file has been successfully saved;
+Sub_Added=Subtitle added successfully;
+Creating_Video=Video successfully created;
+Creating_Video_Being=Video is being created. Please wait;
+Error1=Make sure the subtitle file is saved and the video file is open;

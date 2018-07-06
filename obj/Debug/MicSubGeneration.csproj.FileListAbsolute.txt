@@ -1,0 +1,17 @@
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\MicSubGeneration.exe.config
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\MicSubGeneration.exe
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\MicSubGeneration.pdb
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\Interop.WMPLib.dll
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\AxInterop.WMPLib.dll
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.csprojResolveAssemblyReference.cache
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\Interop.WMPLib.dll
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\AxInterop.WMPLib.dll
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.csproj.ResolveComReference.cache
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.Form1.resources
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.Properties.Resources.resources
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.csproj.GenerateResource.Cache
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.exe
+c:\users\лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.pdb
+C:\Users\Лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\MicLocalizationSystem.dll
+C:\Users\Лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\bin\Debug\MicLocalizationSystem.pdb
+C:\Users\Лехап\documents\visual studio 2015\Projects\MicSubGeneration\MicSubGeneration\obj\Debug\MicSubGeneration.AboutBox.resources
